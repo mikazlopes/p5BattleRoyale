@@ -1,5 +1,6 @@
 # p5BattleRoyale
 
+You can play at  - https://ipvcbattleroyale.netlify.app
 
 College Project to build a game in P5.js
 
