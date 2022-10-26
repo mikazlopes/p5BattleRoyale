@@ -1,7 +1,7 @@
 // -- -------------------------------------------------------
 // -- IPVC Battle Royale
 // -- Exercicio Pratico 1
-// -- Miguel Lopes 4049
+// -- Miguel Lopes 4049 ESTG
 // -- -------------------------------------------------------
 
 //Variavel para imagem de background e personagens
